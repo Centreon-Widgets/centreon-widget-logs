@@ -8,7 +8,7 @@
         <style type="text/css">.ListTable{font-size:11px;border-color: #BFD0E2;}</style>
         <style> @import url('../../Themes/Centreon-2/style.css'); </style>
         {/literal}
-        <script type="text/javascript" src="../../include/common/javascript/jquery/jquery.js"></script>
+        <script type="text/javascript" src="../../include/common/javascript/jquery/jquery.min.js"></script>
         <script type="text/javascript" src="../../include/common/javascript/jquery/jquery-ui.js"></script>
         <script type="text/javascript" src="../../include/common/javascript/widgetUtils.js"></script>
         <script type="text/javascript" src="../../include/common/javascript/jquery/plugins/pagination/jquery.pagination.js"></script>
